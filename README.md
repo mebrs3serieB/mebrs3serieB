@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 **bem vindo ao meu perfil**
-###Meu nome é Maria Eduarda
+
+**Meu nome é Maria Eduarda**
 
 - Estou estudando na Alura
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
